@@ -8,6 +8,7 @@ A commandline utility that's able to efficiently parse strings from a folder con
 3. The execucable needs a path to a directory as argument like the example here: `cstring /Users/user/samples/atomic/2025-02-24`
 3. a. Once ran it will provide the following output:
 
+![cstring](./img/cstring.gif "cstring")
 
 ## Usage
 ```
