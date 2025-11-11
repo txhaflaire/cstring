@@ -83,5 +83,7 @@ Let's say i would run `symhash /path/to/folder/with/binaries -o` it would create
 ▌  ▸ Review results under: '/Users/txhaflaire/Downloads/funky/'
 ```
 
+![recursive_flag](./img/recursive_flag.png "recursive_flag")
+
 
 
