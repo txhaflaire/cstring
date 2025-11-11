@@ -3,7 +3,7 @@ A commandline utility that's able to efficiently parse strings from a folder con
 
 
 ## how to use this tool
-1. Download the installer from [Releases](https://github.com/txhaflaire/cstring/releases) and run the installer (codesigned and notarized) package `csstring-v1.0.0.pkg` 
+1. Download the latest installer from [Releases](https://github.com/txhaflaire/cstring/releases) and run the installer (codesigned and notarized) 
 2. The executable will be put in `/usr/local/bin/cstring`
 3. The execucable needs a path to a directory as argument like the example here: `cstring /Users/user/samples/atomic/2025-02-24`
 3. a. Once ran it will provide the following output:
