@@ -1,5 +1,5 @@
 # cstring
-A commandline utility that's able to efficiently parse strings from a folder containing one to many macho executables and leaving a `common_strings.txt` file in the respective folder that contains strings that are common/existing in every binary.
+A native Swift commandline utility that's able to efficiently parse strings from a folder containing one to many macho executables and leaving a `common_strings.txt` file in the respective folder that contains strings that are common/existing in every binary.
 
 
 ## how to use this tool
